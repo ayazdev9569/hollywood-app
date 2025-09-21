@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+*{
+    font-family: 'DM Sans', sans-serif;
+    box-sizing: border-box;
+}
+::placeholder{
+    color: white;
+    font-size: small;
+}
