@@ -13,7 +13,7 @@ function Arrival() {
     <div className="Arrival max-w-6xl mx-auto my-24 overflow-hidden bg-white">
       <div className="heading flex items-center justify-between">
         <div className="flex">
-          {/*<h1 className='text-4xl font-boldtext-black py-4'>Arrival</h1>*/}
+          <h1 className='text-4xl font-boldtext-black py-4'>Arrival</h1>
         </div>
         <button className='flex items-center gap-1'>
           <p className='text-[18px] text-rose-700'>See more</p>
